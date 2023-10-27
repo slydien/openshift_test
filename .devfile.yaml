@@ -1,0 +1,7 @@
+schemaVersion: 2.1.0
+metadata:
+  name: nedskrivninger
+components:
+  - name: python
+    container:
+      image: registry.redhat.io/devspaces/udi-rhel8@sha256:15e62bd71b7edd6afbf01d536d9839af649b87c17c1bfcbbd3102f90d470c097
