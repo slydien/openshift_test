@@ -4,4 +4,4 @@ metadata:
 components:
   - name: python
     container:
-      image: registry.redhat.io/devspaces/udi-rhel8
+      image: registry.redhat.io/devspaces/udi-rhel9
