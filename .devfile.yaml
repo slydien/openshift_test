@@ -9,3 +9,5 @@ components:
       env:
         - name: VSCODE_DEFAULT_WORKSPACE
           value: /projects/openshift-test/.code-workspace
+        - name: VSCODE_PORTABLE
+          value: /home/user/vscode-config
