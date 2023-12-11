@@ -1,2 +1,2 @@
-# opeshift_test
+# openshift_test
 testing the devspace env.
