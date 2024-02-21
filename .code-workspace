@@ -2,7 +2,7 @@
     "folders": [
         {
             "name": "openshift-test",
-            "path": "/projects/openshift-test"
+            "path": "."
         }
     ],
     "settings": {
