@@ -6,7 +6,7 @@ components:
     container:
       image: registry.redhat.io/devspaces/udi-rhel8
       env:
-        #- name: VSCODE_DEFAULT_WORKSPACE
-        #  value: "/projects/openshift_test"
-        - name: PROJECT_SOURCE
+        - name: VSCODE_DEFAULT_WORKSPACE
           value: "/projects/openshift_test"
+        #- name: PROJECT_SOURCE
+        #  value: "/projects/openshift_test"
