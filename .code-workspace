@@ -15,6 +15,7 @@
         "recommendations": [
             "redhat.vscode-yaml",
             "anweber.dot-icons"
+            "ms-python.python",
         ]
     }
 }
