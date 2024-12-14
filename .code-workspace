@@ -14,7 +14,7 @@
     "extensions": {
         "recommendations": [
             "redhat.vscode-yaml",
-            "anweber.dot-icons"
+            "anweber.dot-icons",
             "ms-python.python",
         ]
     }
